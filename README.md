@@ -1,4 +1,4 @@
-A simple Proxy for playing Private Servers.
+A simple Proxy.
 
 ## Requirements
 
